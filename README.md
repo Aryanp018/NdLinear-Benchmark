@@ -54,7 +54,7 @@ Evaluate whether `NdLinear` improves learning efficiency, reward stability, and 
 - NdLinear shows significant learning progress after 1000 episodes.
 - LinearPolicy struggled with negative rewards and did not learn a stable policy.
 
-![LunarLander Reward Comparison](lunarlander/Figure_2.png)
+![LunarLander Reward Comparison](lunarlander/output.png)
 
 ---
 
