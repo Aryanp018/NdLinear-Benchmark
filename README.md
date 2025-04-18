@@ -110,7 +110,7 @@ python lunarlander/plot_comparison.py
 ## 👤 Author
 **Aryan Patodiya**  
 M.S. Computer Science @ CSU Fresno  
-[GitHub Profile]([https://github.com/aryanpatodiya](https://github.com/Aryanp018)
+[GitHub Profile](https://github.com/Aryanp018)
 
 ---
 
