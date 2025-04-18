@@ -1,0 +1,3 @@
+torch>=2.0.0
+gym>=0.26
+ndlinear @ git+https://github.com/ensemble-core/NdLinear.git
